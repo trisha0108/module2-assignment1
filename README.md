@@ -24,5 +24,7 @@ To kill a single task
 
 To kill multiple tasks
 
+![multiplekill](https://user-images.githubusercontent.com/83501404/118990369-72641680-b9a0-11eb-8ad6-be289e337547.png)
+
 
 
