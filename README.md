@@ -20,3 +20,9 @@ To get the top 3 processes
 
 To kill a single task 
 
+![taskkill](https://user-images.githubusercontent.com/83501404/118990163-45176880-b9a0-11eb-95f4-655fe02ddb5b.png)
+
+To kill multiple tasks
+
+
+
