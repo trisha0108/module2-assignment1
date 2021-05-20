@@ -15,3 +15,8 @@ To get the processes
 ![get-process](https://user-images.githubusercontent.com/83501404/118989485-b3a7f680-b99f-11eb-8fb1-bddd6c443607.png)
 
 To get the top 3 processes
+
+![get-process1](https://user-images.githubusercontent.com/83501404/118989873-02ee2700-b9a0-11eb-99a4-3a99f3ffe910.png)
+
+To kill a single task 
+
