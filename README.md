@@ -9,3 +9,9 @@ Collect process information using the Task Manager
 Find the PROCESS ID of the process you want to kill using details in the Task Manager.
 
 ![pid](https://user-images.githubusercontent.com/83501404/118987861-48115980-b99e-11eb-8088-940b02c7cd23.png)
+
+To get the processes
+
+![get-process](https://user-images.githubusercontent.com/83501404/118989485-b3a7f680-b99f-11eb-8fb1-bddd6c443607.png)
+
+To get the top 3 processes
